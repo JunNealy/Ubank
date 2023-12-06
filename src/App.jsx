@@ -43,7 +43,6 @@ const App = () => {
           <CTA />
           <FeedbackCard />
           <Footer />
-          <GetStarted />
         </div>
       </div>
     </div>
