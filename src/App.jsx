@@ -40,7 +40,6 @@ const App = () => {
           <Testimonials />
           <Clients />
           <CTA />
-          <FeedbackCard />
           <Footer />
         </div>
       </div>
